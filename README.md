@@ -7,3 +7,9 @@ The Mario Game In Python is written in Python programming language, Python is ve
 ## FULL SOURCE CODE
 
 **Downloadable Source Code**: https://itsourcecode.com/free-projects/python-projects/mario-game-in-python-with-source-code/
+
+## Import Libraries
+
+import pygame
+
+import sys
